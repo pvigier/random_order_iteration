@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Codeblocks
+bin/
+*.cbp*
+*.depend
+
